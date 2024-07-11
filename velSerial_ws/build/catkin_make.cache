@@ -1,0 +1,2 @@
+myserial
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/cxc/velSerial_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cxc/velSerial_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/cxc/velSerial_ws/devel
+
+Name: myserial
+Description: Description of myserial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy serial std_msgs
